@@ -1,7 +1,7 @@
 <apex:page >
   <h1>Hello World!</h1>
   <apex:form >
-  {!$User.FirstName}
+  {!$User.FirstName}Hi
   welcome!
   </apex:form>
   </apex:page>
